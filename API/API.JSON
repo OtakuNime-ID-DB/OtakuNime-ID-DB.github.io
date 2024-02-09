@@ -9,7 +9,8 @@
     {
       "id": 2,
       "name": "Jane Smith",
-      "position": "UI/UX Designer"
+      "password": "password2",
+      "pin": "1234"
     }
   ]
 }
